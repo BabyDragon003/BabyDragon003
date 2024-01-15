@@ -7,7 +7,7 @@ Senior Blockchain developer with 5+ years of experience and Web developer with 5
 - Ability for working with any team and prefer to share much knowledge with many developers.
 
 # 🚀 SKILLS
-## 💲 Blockchain
+## 💲 Blockchain & Full-stack
 <p>
 <span>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
@@ -15,6 +15,7 @@ Senior Blockchain developer with 5+ years of experience and Web developer with 5
   <img alt="Chainlin" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img alt="DogeCoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img alt="Cosmos" src="https://img.shields.io/badge/Cosmos-3C3C3D?style=for-the-badge&logo=Cosmos&logoColor=white" />
   <img alt="Polkadot" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" />
   <img alt="Stellar" src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />
   <img alt="Tether" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />

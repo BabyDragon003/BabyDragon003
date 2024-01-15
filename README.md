@@ -29,7 +29,7 @@ Senior Blockchain developer with 5+ years of experience and Web developer with 5
 - Ethereum, BSC, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
 - Token, ICO, IDO <br/>
 - DeFi, DEX, NFT marketplace <br/>
-- GMX, Tornado Cash <br/>
+- PancakeSwap, UniSwap, GMX, Tornado Cash <br/>
 - Cross-chain bridge <br/>
 - Wagmi, Truffle, Hardhat, Remix <br/>
 - Solidity, Rust, Go <br/>

@@ -1,7 +1,7 @@
 # 💫 About Me 
 Senior Blockchain developer with 5+ years of experience and Web developer with 5+ years of experience. Web and Blockchain expert adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Highly skilled blockchain professional bringing enormous talents of development of DEX, DeFi, Stacking, Chain forking and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
 - Like to make a development document with developing content to use that in the future.
-- Delivering perfect results by deadline.
+- Delivering perfect high quality results by deadline.
 - Keeping good communication and work on the client's timezone.
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
 - Ability for working with any team and prefer to share much knowledge with many developers.

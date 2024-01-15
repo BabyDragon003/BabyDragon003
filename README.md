@@ -7,7 +7,7 @@ Senior Blockchain developer with 5+ years of experience and Web developer with 5
 - Ability for working with any team and prefer to share much knowledge with many developers.
 
 # 🚀 SKILLS
-## 💲 Blockchain & Full-stack
+## Blockchain & Full-stack
 <p>
 <span>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />

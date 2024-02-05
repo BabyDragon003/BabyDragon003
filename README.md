@@ -4,7 +4,7 @@ As a Senior Blockchain developer with 5+ years of experience and Web developer w
 - Delivering perfect high quality results by deadline.
 - Keeping good communication and work on the client's timezone.
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
-- Ability for working with any team and prefer to share much knowledge with many developers.
+- Ability for working with any team and prefer to share much knowledge with many developers. 
 
 # 🚀 SKILLS
 ## Blockchain & Full-stack

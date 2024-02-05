@@ -34,7 +34,7 @@ As a Senior Blockchain developer with 5+ years of experience and Web developer w
 - Wagmi, Truffle, Hardhat, Remix <br/>
 - Solidity, Rust, Go <br/>
 - Web3.js, Ethers.js, Cosm.js, Cosmos-kit <br/>
-- React, Vue.js, Angular <br/>
+- React, Vue.js, typescript <br/>
 </span>
 
 ## FrontEnd

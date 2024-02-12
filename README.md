@@ -20,7 +20,7 @@ As a Senior Blockchain developer with 5+ years of experience and Web developer w
   <img alt="Stellar" src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />
   <img alt="Tether" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
   <img alt="XRP" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
-  <br/>
+  <br/> 
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </span>
